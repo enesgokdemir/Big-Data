@@ -113,7 +113,7 @@ Bu ekosistemin sık kullanılan bazı araçlarını inceleyelim:
 - Flume: Yapısal olmayan türdeki verilerin HDFS ortamına aktarımı için kullanılan araçtır.
 - PySpark: Büyük veri kapsamında Spark ile çalışabilmeyi sağlayan bir kütüphanedir. Büyük veri ekosisteminin, özellikle Spark tarafına bakan yönleriyle, SQL işlemleri, makine öğrenmesi uygulamaları, veri ön işleme işlemleri, modelleme gibi çok çeşitli ihtiyaçlar kapsamında çözüm sunar.
 
-### Kaynaklar
+### Hadoop & Spark Kaynakları
 
 [buyuk-verinin-vazgecilmezleri-hadoop-ve-spark](https://www.miuul.com/not-defteri/buyuk-verinin-vazgecilmezleri-hadoop-ve-spark)
 
